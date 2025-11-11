@@ -149,7 +149,7 @@ public void shouldLoginAndSeeInventory() {
 - Integrate **RetryAnalyzer** for flaky tests  
 - Extend support to **API tests (RestAssured)**  
 - Include **Dockerized execution** for CI/CD  
-- Integrate **Concourse CI** and Allure publishing step  
+- Integrate **Github Actions** and Allure publishing step  
 - Add accessibility validation support (axe-selenium-java)
 
 ## 👤 Author
